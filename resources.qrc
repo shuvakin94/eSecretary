@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/average_event_indicator.png</file>
+        <file>images/high_event_indicator.png</file>
+        <file>images/low_event_indicator.png</file>
+    </qresource>
+</RCC>

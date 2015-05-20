@@ -11,3 +11,9 @@ QML_IMPORT_PATH =
 HEADERS += \
     event.h
 
+RESOURCES += \
+    resources.qrc
+
+DISTFILES += \
+    main.qml
+
